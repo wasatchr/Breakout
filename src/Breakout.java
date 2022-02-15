@@ -149,6 +149,8 @@ public class Breakout extends GraphicsProgram {
 
     public static void main(String[] args) {
         new Breakout().start();
+
+        // How many lives do I need to survive Breakout?
     }
 
 }
